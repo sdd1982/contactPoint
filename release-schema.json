@@ -2,7 +2,7 @@
   "definitions": {
     "ContactPoint": {
       "properties": {
-        "identifier ": {
+        "identifier": {
           "type": "string",
           "description": "Número de identificación del contacto",
           "title": "Identificador"
