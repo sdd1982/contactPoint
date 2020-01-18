@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "contactPoint"
+  },
+  "description": {
+    "en": "Identificación del representante legal de la entidad"
+  },
+  "documentationUrl": {
+    "en": "https://github.com/sdd1982/contactPoint/blob/master/README.md"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ]
+}

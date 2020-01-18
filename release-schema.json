@@ -1,0 +1,13 @@
+{
+  "definitions": {
+    "ContactPoint": {
+      "properties": {
+        "identifier ": {
+          "type": "string",
+          "description": "Número de identificación del contacto",
+          "title": "Identificador"
+        }
+      }
+    }
+  }
+}
