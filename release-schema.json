@@ -2,10 +2,38 @@
   "definitions": {
     "ContactPoint": {
       "properties": {
+        "scheme": {
+          "title": "Tipo de identificación",
+          "description": "Tipo de identificación del contacto (Representante legal)",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
         "identifier": {
-          "type": "string",
-          "description": "Número de identificación del contacto",
-          "title": "Identificador"
+          "title": "Identificador",
+          "description": "Número de identificación del contacto (Representante legal)",
+          "type": [
+            "null",
+            "string"
+          ]
+        },
+        "gender": {
+          "title": "Género",
+          "description": "Género del contacto (Representante legal)",
+          "items": {
+            "type": "string",
+            "enum": [
+              "Femenino",
+              "Masculino",
+              "No definido",
+              "Sin dato"
+            ]
+          },
+          "type": [
+            "null",
+            "string"
+          ]
         }
       }
     }
