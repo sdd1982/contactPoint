@@ -8,27 +8,26 @@ Datos de contacto de la parte u organización, incluyendo la información del re
 {
   "parties":[
     {
-      "name":"EDGAR LUVIN VELASQUEZ RODRIGUEZ",
-      "id":"115268456",
+      "name":"TECNOLOGiAS Y SERVICIOS ASOCIADOS S.A.S. - TYSA",
+      "id":"900506304",
       "identifier":{
-        "scheme":"COL-IDCARD",
-        "id":"115268456",
-        "legalName":"EDGAR LUVIN VELASQUEZ RODRIGUEZ"
+        "scheme":"CO-RUE",
+        "id":"900506304",
+        "legalName":"TECNOLOGiAS Y SERVICIOS ASOCIADOS S.A.S. - TYSA"
       },
       "address":{
-        "streetAddress":"Calle 60 52 - 55 Int 402",
+        "streetAddress":"CALLE 3 SUR CARRERA 43ª -52 IN 1105, 4034132",
         "locality":"Antioquia",
         "region":" Colombia",
         "countryName":"COLOMBIA"
       },
       "contactPoint":{
-        "name":"EDGAR LUVIN VELASQUEZ RODRIGUEZ",
+        "name":"JUAN FELIPE SALAZAR SALDARRIAGA",
         "scheme":"COL-IDCARD",
-        "identifier":"1.152.684.568",
-        "gender":"Sin dato"
+        "identifier":"98563998",
+        "gender":"No definido"
       },
-      "roles":["supplier", "payee"]
-    }  
+      "roles":["supplier", "payee"]}  
   ]
 }
 ```
