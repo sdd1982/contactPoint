@@ -6,8 +6,8 @@ Datos de contacto de la parte u organización, incluyendo la información del re
 ## Example
 ```javascript
 {
-	"parties":[
-		{
+  "parties":[
+    {
       "name":"EDGAR LUVIN VELASQUEZ RODRIGUEZ",
       "id":"115268456",
       "identifier":{
@@ -28,7 +28,7 @@ Datos de contacto de la parte u organización, incluyendo la información del re
         "gender":"Sin dato"
       },
       "roles":["supplier", "payee"]
-    }
-	]
+    }  
+  ]
 }
 ```
